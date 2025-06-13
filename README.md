@@ -4,9 +4,9 @@ This repository contains two separate academic projects completed as part of the
 
 ## 📁 Repository Structure
 
-├── Neural_Networks/ # Project 1: Artificial Neural Networks
-├── Machine_Learning/ # Project 2: Classical Machine Learning Methods
-└── README.md # This file (main README)
+- ├── Neural_Networks/ # Project 1: Artificial Neural Networks
+- ├── Machine_Learning/ # Project 2: Classical Machine Learning Methods
+- └── README.md # This file (main README)
 
 
 ## 🧠 Project 1 – Artificial Neural Networks (ANN)
