@@ -42,13 +42,14 @@ This project investigates the performance of selected **classical machine learni
 The methods covered include (at minimum):
 
 - **k-Nearest Neighbors (k-NN)**
-- **Random Forests / Decision Trees**
-- **Support Vector Machines (SVM)**
+- **Decision Trees**
+- **Logistic Regression**
+- **SGD**
 
 The main objectives are:
 
 - Providing a brief theoretical summary of each method.
-- Testing the effect of different hyperparameters (4+ values per parameter), such as:
+- Testing the effect of different hyperparameters (4 values per parameter), such as:
   - Distance metrics
   - Error metrics
   - Number of trees
