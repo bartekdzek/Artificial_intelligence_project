@@ -55,7 +55,7 @@ For each parameter, at least four different values were tested, and the results 
 
 ### Classification Problem
 
-**Problem:** This section focuses on a classification task aimed at categorizing observations into distinct classes. The dataset and specific target classes are described in the `klasyfikacjaNN.ipynb` notebook. From the analysis in `klasyfikacjaNN.html`, it appears the classification involves categories such as "Sunny" and "Snowy," suggesting a weather-related or environmental classification task.
+**Problem:** This section focuses on a classification task aimed at categorizing observations into distinct classes. The dataset and specific target classes are described in the `klasyfikacjaNN.ipynb` notebook. 
 
 ## Literature Review
 
